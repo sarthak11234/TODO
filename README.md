@@ -14,12 +14,6 @@ The **To-Do List App** is a simple and intuitive JavaScript-based task manager t
 
 ---
 
-## 📸 Demo
-
-![To-Do List App Screenshot](./screenshot.png)
-
----
-
 ## 🛠️ Technologies Used
 
 - HTML5
