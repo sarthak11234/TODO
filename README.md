@@ -72,6 +72,3 @@ Made with 💻 by **[Sarthak Sharad Chavan](https://github.com/sarthak11234)**
 
 ---
 
-## 📃 License
-
-This project is licensed under the MIT License – see the [LICENSE](./LICENSE) file for details.
